@@ -1,0 +1,22 @@
+{
+  "name": "wordsapi",
+  "version": "1.0.0",
+  "description": "It provides you with randomly generated words list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordsapi",
+    "wordsgenerator",
+    "randomwordsapi"
+  ],
+  "author": "github.com/ayushkarn32",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
