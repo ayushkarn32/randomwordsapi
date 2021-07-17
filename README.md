@@ -1,3 +1,6 @@
 # randomwordsapi
 
-<b>RandomWords Api</b>
+<center><b>RandomWords Api</b>
+</center>
+
+<b>
