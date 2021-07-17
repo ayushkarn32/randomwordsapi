@@ -10,3 +10,6 @@ Random Words Api provides you the list of random words.This api has list of 2466
 
 ### /getwords/:numberofwords
 👉 Provides you the specified amount of words as list
+
+### /getwords/:numberofwords/length/:length
+👉 Provides you the specified amount of words having the specified length as list. The words length must range from 3 to 12.
